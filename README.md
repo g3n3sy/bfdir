@@ -1,3 +1,5 @@
+#Work in progress
+
 # bfdir
 Bruteforce tool for URIs (directories and files respectively URLs and URNs ) on web-pages.
 
